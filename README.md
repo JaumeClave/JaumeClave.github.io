@@ -6,5 +6,5 @@ This portfolio is a compilation of notebooks which I created for data analysis a
 
 # Projects
 <h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
-<p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection.ipynb">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection.ipynb">nbviewer</a></p>
+<p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb">Github</a> 
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb">nbviewer</a></p>
