@@ -1,4 +1,4 @@
-<h1><a href="https://jaumeclave.github.io./">JaumeClave.github.io</a></h1>
+# JaumeClave.github.io
 <a href="https://github.com/JaumeClave">Visit me on my github page</a>
 
 # Data science portfolio by Jaume Clave Domenech
