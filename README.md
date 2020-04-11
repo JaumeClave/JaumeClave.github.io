@@ -1,5 +1,5 @@
-# JaumeClave.github.io
-<a href="https://github.com/JaumeClave">Visit me on my github page</a>
+<h1><a href="https://JaumeClave.github.io/">JaumeClave.github.io</a></h1>
+<a href="https://github.com/JaumeClave">Visit me on my GitHub page</a>
 
 # Data science portfolio by Jaume Clave Domenech
 This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from my time in Imperial College Business School, my professional career and various projects I have completed out of interest and curiosity.
