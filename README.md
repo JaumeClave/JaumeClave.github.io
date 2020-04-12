@@ -1,12 +1,12 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics --
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163462492-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  gtag('js', new Date());>
 
-  gtag('config', 'UA-163462492-1');
-</script>
+ <!--gtag('config', 'UA-163462492-1');
+</script>>
 
 <!-- Website -->
 <p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
