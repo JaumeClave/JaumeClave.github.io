@@ -1,5 +1,3 @@
-<a href="https://github.com/JaumeClave" target="_blank">Visit me on my GitHub page</a>
-
 <p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
 <a href="https://github.com/JaumeClave" target="_blank">
