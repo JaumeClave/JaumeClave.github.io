@@ -1,4 +1,4 @@
-<a href="https://github.com/JaumeClave">Visit me on my GitHub page</a>
+<a href="https://github.com/JaumeClave" target="_blank">Visit me on my GitHub page</a>
 
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
@@ -7,5 +7,5 @@
 
 ## Projects
 <h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
-<p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb">nbviewer</a></p>
+<p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">Github</a> 
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">nbviewer</a></p>
