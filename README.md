@@ -1,5 +1,13 @@
 <a href="https://github.com/JaumeClave" target="_blank">Visit me on my GitHub page</a>
 
+<a href="https://github.com/JaumeClave" target="_blank"></a>
+
+<a href="https://github.com/JaumeClave">
+<img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="25"></a>
+
+<a href="https://www.linkedin.com/in/jaume-clave-domenech/">
+<img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="25" hspace="20"></a>
+
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
 # Data science portfolio by Jaume Clave Domenech
