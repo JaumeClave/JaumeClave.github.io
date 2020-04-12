@@ -1,5 +1,7 @@
 <a href="https://github.com/JaumeClave" target="_blank">Visit me on my GitHub page</a>
 
+<link rel="shortcut icon" type="image/png" href="https://jaumeclave.github.io./images/erlenmeyer_flask.png">
+
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
 # Data science portfolio by Jaume Clave Domenech
