@@ -1,20 +1,10 @@
-<!-- Global site tag (gtag.js) - Google Analytics --
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163462492-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());>
-
- <!--gtag('config', 'UA-163462492-1');
-</script>>
-
 <!-- Website -->
 <p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
 <a href="https://github.com/JaumeClave" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
 <a href="https://github.com/JaumeClave" target="_blank">
-<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18" hspace="20"></a></p>
+<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a></p>
 
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
