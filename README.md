@@ -9,7 +9,7 @@
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
 # Data science portfolio by Jaume Clave Domenech
-<p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from my time in Imperial College Business School, my professional career and various projects I have completed out of interest and curiosity.</p>
+<p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from my time completing my MSc Business Analytics at Imperial College Business School, my professional career and various projects I have completed out of interest and curiosity.</p>
 
 ## Projects
 <h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
