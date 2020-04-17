@@ -12,11 +12,20 @@
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from my time completing my MSc Business Analytics at Imperial College Business School, my professional career and various projects I have completed out of interest and curiosity.</p>
 
 ## Projects
-<h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
+
+<h3 id="networkx-asset-price-correlations">Visualising Asset Price Correlations</h3>
+<p><a href="https://github.com/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">Github</a> 
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">nbviewer</a></p>
+
+<img src="https://jaumeclave.github.io./images/clustured_heatmap.JPG" width="350" align="right"/>
+
+<p align="justify">“Diversify your portfolio!” Words everyone has heard and a portfolio managers priority. Diversifying methods vary from selecting different asset classes (funds, bonds, stocks, etc.), combining industries, or varying the risk levels of investments. And the most common and direct diversification measurement used in these methods is correlation. Correlation is how closely variables are related and it may be measured with Pearsons correlation coefficient, the degree of linear relationship between two variables. Its values range between -1 (perfect negative correlation) and 1 (perfect positive correlation). While a zero correlation implies no relationship between variables. True diversification is therefore only realistically achieved by investing in assets which are uncorrelated (0) with each other. <b>This project</b> uses NetworkX and nxviz to investigate and visualize these relationships and investigate price correlations for 39 different assets (currencies, commodities, equities and bonds) with the aim of showing an investor what assets they might need to hold to truly diversify their portfolio.</p>
+
+<h3 id="networkx-community-detection">WhatsApp Group Chat Analysis with Naive Bayes Message Categorization</h3>
 <p><a href="https://github.com/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
-<img src="https://jaumeclave.github.io./images/chat_polarity_score.JPG" width="350" align="right"/>
+<img src="https://jaumeclave.github.io./images/chat_polarity_scores.JPG" width="350" align="right"/>
 
 <p align="justify">Facebooks purchase of the messaging giant for $16 billion (4 billion cash, 12 billion in Facebook shares) back in 2014, further solidified Facebooks reach into users everyday lives. The acquastion was one of the largest Silicon Valley had every seen, and by far Facebooks largest purchase. So why did Facebook purchase an app that had limited revenue generation...? Growth potential and data. <b>This project</b> uses Python to explore the dataset and compute metrics that the reader may find interesting. The paper aims to inform the reader about exploratory data analysis (EDA) methods what they can show in realtion to this type of data. The paper tries to provide background into important forecasting models and tecnqiues and it contains a brief introduction into machine learning through natural language processing and the use of a Naive Bayes classifier. The visualisations go hand in hand with the explanations so as to provide a visual medium for the information.</p>
 
@@ -27,14 +36,6 @@
 <img src="https://jaumeclave.github.io./images/louvian_wttw.JPG" width="350" align="right"/>
 
 <p align="justify">Networks are graphs which are made out of nodes and edges and they are present everywhere. Social networks composed of users owned by the likes of Facebook and Twitter contain sensitive relationship data, biological networks help analyse patterns in biological systems, such as food-webs and predator-prey interactions and narrative networks help identify key actors and the key communities or parties they are involved with. The study of a network is essential in order to learn about its information spread, players of influence and its robustness. Networks inherently contain communities, areas of densely connected nodes which provide information about the network, among that information, it allows for the creation of large scale maps of a network since individual communities act like meta-nodes in the network. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. <b>This project</b> utilises NetwokX to investigate two different networks, studying key centrality measures and utilising the Girvan–Newman and the Louvain Modularity methods to explore network communities.</p>
-
-<h3 id="networkx-asset-price-correlations">Visualising Asset Price Correlations</h3>
-<p><a href="https://github.com/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">nbviewer</a></p>
-
-<img src="https://jaumeclave.github.io./images/clustured_heatmap.JPG" width="350" align="right"/>
-
-<p align="justify">“Diversify your portfolio!” Words everyone has heard and a portfolio managers priority. Diversifying methods vary from selecting different asset classes (funds, bonds, stocks, etc.), combining industries, or varying the risk levels of investments. And the most common and direct diversification measurement used in these methods is correlation. Correlation is how closely variables are related and it may be measured with Pearsons correlation coefficient, the degree of linear relationship between two variables. Its values range between -1 (perfect negative correlation) and 1 (perfect positive correlation). While a zero correlation implies no relationship between variables. True diversification is therefore only realistically achieved by investing in assets which are uncorrelated (0) with each other. <b>This project</b> uses NetworkX and nxviz to investigate and visualize these relationships and investigate price correlations for 39 different assets (currencies, commodities, equities and bonds) with the aim of showing an investor what assets they might need to hold to truly diversify their portfolio.</p>
 
 <h3 id="data-analysis-and-machine-learning-airbnb-new-orleans">Exploring & Machine Learning with Airbnb Listings in New Orleans</h3>
 <p><a href="https://github.com/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">Github</a> 
