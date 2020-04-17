@@ -13,6 +13,14 @@
 
 ## Projects
 <h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
+<p><a href="https://github.com/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">Github</a> 
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
+
+<img src="https://jaumeclave.github.io./images/chat_polarity_score.JPG" width="350" align="right"/>
+
+<p align="justify">Facebooks purchase of the messaging giant for $16 billion (4 billion cash, 12 billion in Facebook shares) back in 2014, further solidified Facebooks reach into users everyday lives. The acquastion was one of the largest Silicon Valley had every seen, and by far Facebooks largest purchase. So why did Facebook purchase an app that had limited revenue generation...? Growth potential and data. <b>This project</b> uses Python to explore the dataset and compute metrics that the reader may find interesting. The paper aims to inform the reader about exploratory data analysis (EDA) methods what they can show in realtion to this type of data. The paper tries to provide background into important forecasting models and tecnqiues and it contains a brief introduction into machine learning through natural language processing and the use of a Naive Bayes classifier. The visualisations go hand in hand with the explanations so as to provide a visual medium for the information.</p>
+
+<h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
 <p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">nbviewer</a></p>
 
@@ -44,7 +52,7 @@
 <p align="justify">Forecasting methods are utilised in all industries. The ability to make predictions of the future based on past and present data and most commonly by analysis of trends is key to success in any market because if done successfully it may drastically reduce costs and increase company revenue and profit. The food industry in this sense, is no different. With ever-changing tastes, tight profit margins, and fickle consumers, the need for accurate projections is an essential component of business success. Industry leaders use state of the art forecasting techniques, centralized data sources and machine learning algorithms to get a step ahead of the competition and to optimally manage their supply chain. In general however, the problem the industry faces lies with scattered data sources, insufficient consideration of external factors, such as campaigns and promotions, moving holidays, weather and ad hoc solutions. <b>This project</b> forecasts the daily demand for ingredients in a fast-food chain in two different major US markets; New York and California. Each restaurant's historic data is examined and the data is checked for stationarity, transformed and forecasted through an ETS model and a Holt-Winters model. An ARIMA model is also used to forecast ingredient demand in order to test various methods. Finally all three models are evaluated against each other using various estimators of prediction errors and the best is chosen for each individual restaurant location.</p>
 
 <h3 id="Marketing_Resource_Allocation_VAR_&_IRF">Marketing Resource Allocation with Vector Autoregression and Impulse Response Analysis</h3>
-<p><a href="https://github.com/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20(VAR%20%26%20IRF).ipynb" target="_blank">Github</a> 
+<p><a href="https://github.com/JaumeClave/marketing_resource_allocation/blob/master/Marketing%20Resource%20Allocation%20(VAR%20%26%20IRF).ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank">nbviewer</a></p>
 
 <img src="https://jaumeclave.github.io./images/optimal_budget_allocation.JPG" width="350" align="right"/>  
