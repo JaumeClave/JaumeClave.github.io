@@ -37,7 +37,7 @@
 
 <p align="justify">Networks are graphs which are made out of nodes and edges and they are present everywhere. Social networks composed of users owned by the likes of Facebook and Twitter contain sensitive relationship data, biological networks help analyse patterns in biological systems, such as food-webs and predator-prey interactions and narrative networks help identify key actors and the key communities or parties they are involved with. The study of a network is essential in order to learn about its information spread, players of influence and its robustness. Networks inherently contain communities, areas of densely connected nodes which provide information about the network, among that information, it allows for the creation of large scale maps of a network since individual communities act like meta-nodes in the network. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. <b>This project</b> utilises NetwokX to investigate two different networks, studying key centrality measures and utilising the Girvan–Newman and the Louvain Modularity methods to explore network communities.</p>
 
-<h3 id="logistic-regression-patient-readmittance">Using Logistic Regression to Predict Hospital Patient Readmittance</h3>
+<h3 id="data-analysis-and-machine-learning-airbnb-new-orleans">Exploring & Machine Learning with Airbnb Listings in New Orleans</h3>
 <p><a href="https://github.com/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">nbviewer</a></p>
 
@@ -45,7 +45,7 @@
 
 <p align="justify"><b>This project</b> provides an analysis and evaluation of the current and prospective Airbnb listings in New Orleans (NO), Louisiana. The report intends to contribute information and advice to potential visitors. Methods of analysis include sentiment analysis, data and feature aggregation as well as visualizations such as boxplots, spatial mappings and calendar plots. Other calculations include occupancy rate, prices and trip length averages. Results show that occupancy rate is higher during key dates in NO. In particular, during NOs large events such as the BUKU Music and Art Project and the New Orleans Jazz and Heritage Festival. This produces an increment in property price and demand. The report finds that the prospects of Airbnb in the NO community is positive because of high (+80) review scores across all neighbourhoods and property types. The majority of properties are of type “house” with a categorized size of small and medium, ideal for families and groups of friends. Properties in summer months are comparatively available resulting in a peaceful and quite vacation.</p>
 
-h3 id="data-analysis-and-machine-learning-airbnb-new-orleans">Exploring & Machine Learning with Airbnb Listings in New Orleans</h3>
+<h3 id="logistic-regression-patient-readmittance">Using Logistic Regression to Predict Hospital Patient Readmittance</h3>
 <p><a href="https://github.com/JaumeClave/tahoe_healthcare_readmittance_prediction/blob/master/tahoe_healthcare_systems.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/tahoe_healthcare_readmittance_prediction/blob/master/tahoe_healthcare_systems.ipynb" target="_blank">nbviewer</a></p>
 
