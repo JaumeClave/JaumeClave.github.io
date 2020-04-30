@@ -77,6 +77,6 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-163462492-1');
-  <p>Nothing to see here!</p>
 </script>
+<p>Nothing to see here!</p>
 </details>
