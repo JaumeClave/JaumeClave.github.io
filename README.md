@@ -69,5 +69,14 @@
 <p align="justify">The 2019 global advertisement budget surpassed $560 billion USD, the US and North-American market, unsurpsignly being the largest spenders. These budgets are stretched among various channels as internet advertising now not only relates to “traditional” Google Ads spending or Facebook Ads spending but to influencer marketing on quickly growing social media apps like Tik-Tok and Snapchat. As new marketing opportunities arise decision makers not only need to figure out how much company resource to devote to their marketing campaigns, they need to decide where exactly to spend that budget. The old axiom, “marketers waste half of their money, but they just don’t know which half” still holds true. <b>This project</b> contains a detailed analytical investigation into a retailers marketing budget and it provides an improvement to it by finding its optimal channel allocation. The examination is completed to help the retailer better use their annual marketing budget in order to increase audience reach, conversions and ultimately sales that lead to bottom-line growth. The paper will take a step-by-step approach in solving the optimal resource (channel) allocation problem and will show and explain at each phase what needs to be done to find optimality so that other retailers and companies may adopt the same approach to better allocate their budget.</p>
 
 <details><summary></summary>
- 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163462492-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163462492-1');
+  <p>Nothing to see here!</p>
+</script>
 </details>
