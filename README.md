@@ -34,11 +34,11 @@
 <p align="justify">Summary statistics released in early January of 2020 by FIA show that trading activity in the global exchange-traded derivatives markets rose by 13.7% in 2019 to reach a record of 34.47 billion contracts. The options volume alone rose 16% to 15.23 billion contracts. Price movements in the options market are a reflection of decisions to buy or sell options made by millions of traders. Successful traders study the options daily trading volume and open interest when on the exchange. <a href="https://nbviewer.jupyter.org/github/JaumeClave/Geometric-Brownian-Motion-and-Black-Scholes-Delta-Hedging/blob/master/geometric_brownian_motion_and_black_scholes_delta_hedging.ipynb" target="_blank"><b>This project</b></a> introduces the options derivative and provides terminology and the mathematical notation behind essential option pricing models. A function is built to calibrate the binomial model so that its dynamics match that of GBM allowing for convergence of binomial model option prices to Black-Scholes prices. A Monte Carlo simulation of 10,000 paths is built to estimate the price of an Asian call option. The project assumes certain market conditions so that it becomes possible to dynamically replicate the payoff of a call option using a self-financing trading strategy. The strategy requires continuous and dynamic delta hedging in the Black-Sholes model which is investigated in order to create profit and loss computations based on option volatility.</p>
 
 
-<h3 id="face-detection-pca">Building a Face Detection Algorithm Using Principal Component Analysis (PCA)</h3>
-<p><a href="https://github.com/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">nbviewer</a></p>
+<h3 id="face-recognition-pca">Building a Facial Recognition Algorithm Using Principal Component Analysis (PCA)</h3>
+<p><a href="https://github.com/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">Github</a> 
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">nbviewer</a></p>
 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/3d_pca.JPG" width="350" align="right"/>
 </a>
 
