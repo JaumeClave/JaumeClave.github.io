@@ -56,10 +56,10 @@
 
 
 <h3 id="networkx-asset-price-correlations">Visualising Asset Price Correlations</h3>
-<p><a href="https://github.com/JaumeClave/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://github.com/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">Github</a> 
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">nbviewer</a></p>
 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/efficient_frontiers.JPG" width="350" align="right"/>
 </a>
 
