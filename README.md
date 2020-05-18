@@ -14,7 +14,7 @@
 ## Projects
 
 
-<h3 id="networkx-community-detection">WhatsApp Group Chat AnalysisWwith Naive Bayes Message Categorization</h3>
+<h3 id="networkx-community-detection">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
 <p><a href="https://github.com/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
