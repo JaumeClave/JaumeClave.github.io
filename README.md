@@ -14,7 +14,7 @@
 ## Projects
 
 
-<h3 id="networkx-community-detection">WhatsApp Group Chat Analysis with Naive Bayes Message Categorization</h3>
+<h3 id="networkx-community-detection">WhatsApp Group Chat AnalysisWwith Naive Bayes Message Categorization</h3>
 <p><a href="https://github.com/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
@@ -77,7 +77,7 @@
 <p align="justify">“Diversify your portfolio!” Words everyone has heard and a portfolio managers priority. Diversifying methods vary from selecting different asset classes (funds, bonds, stocks, etc.), combining industries, or varying the risk levels of investments. And the most common and direct diversification measurement used in these methods is correlation. Correlation is how closely variables are related and it may be measured with Pearsons correlation coefficient, the degree of linear relationship between two variables. Its values range between -1 (perfect negative correlation) and 1 (perfect positive correlation). While a zero correlation implies no relationship between variables. True diversification is therefore only realistically achieved by investing in assets which are uncorrelated (0) with each other. <a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank"><b>This project</b></a> uses NetworkX and nxviz to investigate and visualize these relationships and investigate price correlations for 39 different assets (currencies, commodities, equities and bonds) with the aim of showing an investor what assets they might need to hold to truly diversify their portfolio.</p>
 
 
-<h3 id="rfm-clv-customer-segmentation">Retail Customer Segmentation through RFM and Custmer Lifetime Value Analysis</h3>
+<h3 id="rfm-clv-customer-segmentation">Retail Customer Segmentation Through RFM and Custmer Lifetime Value Analysis</h3>
 <p><a href="https://github.com/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank">nbviewer</a></p>
 
@@ -87,7 +87,7 @@
 <p align="justify">The dataset that is studied to discover customer insights and how different marketing channels impacts their purchase behavior has been provided by a multichannel company with sales of several hundred million dollars per year. The company has a network of retail stores, a well-established traditional catalog channel and a website. Its brand is very well known nationally (US) and it has a strong positive reputation along with very good long term customer loyalty. The core of the company’s business consists of food products which are often purchased as gifts during the Christmas season. <a href="https://nbviewer.jupyter.org/github/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank"><b>This project</b></a> explores this dataset and visualizes key components such as VIP customer spending, marketing channel conversion rate and order method splits before producing a more detailed section on RFM segmentation and the process involving the calculation for customer lifetime value. The data is initially pushed to a local PostgreSQL database and queired using the SQLAlchemy ORM library and Psycopg2  in order to prepare various tables needed for the investifation. RFM segmentation is a great method to identify groups of customers for special treatment because it allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior – and thus generate much higher rates of response, plus increased loyalty and customer lifetime value.</p>
 
 
-<h3 id="networkx-community-detection">Community Detection using NetworkX</h3>
+<h3 id="networkx-community-detection">Data Clustering and Community Detection in Graphs Using NetworkX</h3>
 <p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">nbviewer</a></p>
 
@@ -97,7 +97,7 @@
 <p align="justify">Networks are graphs which are made out of nodes and edges and they are present everywhere. Social networks composed of users owned by the likes of Facebook and Twitter contain sensitive relationship data, biological networks help analyse patterns in biological systems, such as food-webs and predator-prey interactions and narrative networks help identify key actors and the key communities or parties they are involved with. The study of a network is essential in order to learn about its information spread, players of influence and its robustness. Networks inherently contain communities, areas of densely connected nodes which provide information about the network, among that information, it allows for the creation of large scale maps of a network since individual communities act like meta-nodes in the network. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. <a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank"><b>This project</b></a> utilises NetwokX to investigate two different networks, studying key centrality measures and utilising the Girvan–Newman and the Louvain Modularity methods to explore network communities.</p>
 
 
-<h3 id="data-analysis-and-machine-learning-airbnb-new-orleans">Exploring & Machine Learning with Airbnb Listings in New Orleans</h3>
+<h3 id="data-analysis-and-machine-learning-airbnb-new-orleans">Exploring & Machine Learning With Airbnb Listings in New Orleans</h3>
 <p><a href="https://github.com/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">nbviewer</a></p>
 
@@ -116,7 +116,7 @@
 <p align="justify">Forecasting methods are utilised in all industries. The ability to make predictions of the future based on past and present data and most commonly by analysis of trends is key to success in any market because if done successfully it may drastically reduce costs and increase company revenue and profit. The food industry in this sense, is no different. With ever-changing tastes, tight profit margins, and fickle consumers, the need for accurate projections is an essential component of business success. Industry leaders use state of the art forecasting techniques, centralized data sources and machine learning algorithms to get a step ahead of the competition and to optimally manage their supply chain. In general however, the problem the industry faces lies with scattered data sources, insufficient consideration of external factors, such as campaigns and promotions, moving holidays, weather and ad hoc solutions. <a href="https://github.com/JaumeClave/lettuce_forecast/blob/master/README.md" target="_blank"><b>This project</b></a> forecasts the daily demand for ingredients in a fast-food chain in two different major US markets; New York and California. Each restaurant's historic data is examined and the data is checked for stationarity, transformed and forecasted through an ETS model and a Holt-Winters model. An ARIMA model is also used to forecast ingredient demand in order to test various methods. Finally all three models are evaluated against each other using various estimators of prediction errors and the best is chosen for each individual restaurant location.</p>
 
 
-<h3 id="Marketing_Resource_Allocation_VAR_&_IRF">Marketing Resource Allocation with Vector Autoregression and Impulse Response Analysis</h3>
+<h3 id="Marketing_Resource_Allocation_VAR_&_IRF">Marketing Resource Allocation With Vector Autoregression and Impulse Response Analysis</h3>
 <p><a href="https://github.com/JaumeClave/marketing_resource_allocation/blob/master/Marketing%20Resource%20Allocation%20(VAR%20%26%20IRF).ipynb" target="_blank">Github</a> 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank">nbviewer</a></p>
 
