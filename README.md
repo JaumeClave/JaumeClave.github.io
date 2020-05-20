@@ -126,6 +126,14 @@
 <p align="justify">The 2019 global advertisement budget surpassed $560 billion USD, the US and North-American market, unsurpsignly being the largest spenders. These budgets are stretched among various channels as internet advertising now not only relates to “traditional” Google Ads spending or Facebook Ads spending but to influencer marketing on quickly growing social media apps like Tik-Tok and Snapchat. As new marketing opportunities arise decision makers not only need to figure out how much company resource to devote to their marketing campaigns, they need to decide where exactly to spend that budget. The old axiom, “marketers waste half of their money, but they just don’t know which half” still holds true. <a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank"><b>This project</b></a> contains a detailed analytical investigation into a retailers marketing budget and it provides an improvement to it by finding its optimal channel allocation. The examination is completed to help the retailer better use their annual marketing budget in order to increase audience reach, conversions and ultimately sales that lead to bottom-line growth. The paper will take a step-by-step approach in solving the optimal resource (channel) allocation problem and will show and explain at each phase what needs to be done to find optimality so that other retailers and companies may adopt the same approach to better allocate their budget.</p>
 
 
+## Hackathons
+
+<img src="https://jaumeclave.github.io./images/ai_hacks_2020.jpg" width="125" align="right"/>
+
+<h3 id="AI-Hack-2020">AI Hack 2020</h3>
+<p align="justify">Took part in the largest student-led AI Hackathon in the UK! This third ever AI Hack aimed to bring the most forward-thinking and creative student data scientists to solve some of the world's most pressing challenges. I tackled the 24-hour hackathon at Imperial College London and was awarded first prize for the discoveries in the Airbnb Correlation One Challenge! Analysed over 40,000 Airbnb listings in New York City to understand how a listings features affected its nightly price. Explored patterns in the rentals industry and how the they relate to economic, demographic, and geographic trends at large. Created machine learning models that were able to predict a monthly revenue investors could expect from their Airbnb property. This was then used to compare yields from other property rental types so that a potential investor could make a data-driven decision on what to invest in. </p>
+
+
 <details><summary></summary>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163462492-1"></script>
