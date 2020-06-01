@@ -130,8 +130,14 @@
 
 <img src="https://jaumeclave.github.io./images/ai_hacks_2020.jpg" width="125" align="right"/>
 
-<h3 id="AI-Hack-2020">AI Hack 2020</h3>
+<h3 id="AI-Hack-2020">AI Hack 2020 (1st Prize)</h3>
 <p align="justify">During the last weekend on February I took part in the largest student-led AI Hackathon in the UK. This third ever AI Hack aimed to bring the most forward-thinking and creative student data scientists to solve some of the world's most pressing challenges. I tackled the 24-hour hackathon at Imperial College London and was awarded first prize for the discoveries in the Airbnb Correlation One Challenge! Analysed over 40,000 Airbnb listings in New York City to understand how a listings features affected its nightly price. Explored patterns in the rentals industry and how the they relate to economic, demographic, and geographic trends at large. Created machine learning models that were able to predict a monthly revenue investors could expect from their Airbnb property. This was then used to compare yields from other property rental types so that a potential investor could make a data-driven decision on what to invest in. </p>
+
+
+<img src="https://jaumeclave.github.io./images/covid_19_recovery.jpg" width="125" align="right"/>
+
+<h3 id="AI-Hack-2020">COVID-19 Recovery Challange</h3>
+<p align="justify">Took part in the 5-day innovation hackathon for all bright minds from LSE, Imperial College, Harvard, UCL and ITESM who wanted to help build a better future during these times. The aim of the event was to facilitate the generation of innovative solutions to the challenges engendered by the pandemic by providing 5 days of industry-leading talks, mentorship, networking, guidance all through an online community. This was not a traditional tech hackathon but one which gave the freedom to come up with new products, business models, policies or campaigns trying to help individuals and businesses recover post the crisis.</p>
 
 
 <details><summary></summary>
