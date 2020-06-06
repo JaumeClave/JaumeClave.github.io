@@ -26,7 +26,7 @@
 
 <h3 id="spotify-music-analysis">Using Spotipy, K-Means Clustering and Plotly to Analyse My Personal Spotify Music Library</h3>
 <p><a href="https://github.com/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/master/data_driven_study_on_my_music_taste.ipynb" target="_blank">Github</a> 
-<a href=https://nbviewer.jupyter.org/github/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/4db117e8e09030c21dfde57e05c2197df7ba7be6/data_driven_study_on_my_music_taste.ipynb" target="_blank">nbviewer</a></p>
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/4db117e8e09030c21dfde57e05c2197df7ba7be6/data_driven_study_on_my_music_taste.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/4db117e8e09030c21dfde57e05c2197df7ba7be6/data_driven_study_on_my_music_taste.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/3d_song_clusters.JPG" width="350" align="right"/></a>
