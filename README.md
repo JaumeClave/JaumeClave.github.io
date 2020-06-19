@@ -15,8 +15,7 @@
 
 
 <h3 id="whatsapp_chat_anlaysis">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
-<p><a href="https://github.com/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/chat_polarity_scores.JPG" width="350" align="right"/></a>
@@ -25,8 +24,7 @@
 
 
 <h3 id="spotify-music-analysis">Using Spotipy, K-Means Clustering and Plotly to Analyse My Personal Spotify Music Library</h3>
-<p><a href="https://github.com/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/master/data_driven_study_on_my_music_taste.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/4db117e8e09030c21dfde57e05c2197df7ba7be6/data_driven_study_on_my_music_taste.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/4db117e8e09030c21dfde57e05c2197df7ba7be6/data_driven_study_on_my_music_taste.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/spotipy_kmeans_plotly_music_taste_analysis/blob/4db117e8e09030c21dfde57e05c2197df7ba7be6/data_driven_study_on_my_music_taste.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/3d_song_clusters.JPG" width="350" align="right"/></a>
@@ -35,8 +33,7 @@
 
 
 <h3 id="ocr-selenium-automation">Winning a Tesla (Hopefully!) With Selenium Automation and Optical Character Recognition</h3>
-<p><a href="https://github.com/JaumeClave/OCR_yeo_valley_competition/blob/master/yeo_promotional_code_ocr_automation.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/OCR_yeo_valley_competition/blob/master/yeo_promotional_code_ocr_automation.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/OCR_yeo_valley_competition/blob/master/yeo_promotional_code_ocr_automation.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/OCR_yeo_valley_competition/blob/master/yeo_promotional_code_ocr_automation.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/yeo_entry_trim.gif" width="350" align="right"/>
@@ -46,8 +43,7 @@
 
 
 <h3 id="efficient-frontier-analysis-optimisation">Risk Management Scenario Analysis and Markowitz Efficient Frontier Portfolio Optimisation</h3>
-<p><a href="https://github.com/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/scenario_analysis_and_modern_portfolio_theory_mpt_with_efficient_frontiers/blob/master/scenario_analysis_and_modern_portfolio_theory_with_efficient_frontiers.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/efficient_frontiers.JPG" width="350" align="right"/>
@@ -57,8 +53,7 @@
 
 
 <h3 id="face-recognition-pca">Building a Facial Recognition Algorithm Using Principal Component Analysis (PCA)</h3>
-<p><a href="https://github.com/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/facial_recognition_with_pca/blob/master/face_detection_with_principal_component_analysis.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/3d_pca.JPG" width="350" align="right"/>
@@ -68,8 +63,7 @@
 
 
 <h3 id="logistic-regression-patient-readmittance">Using Logistic Regression to Predict Hospital Patient Readmittance</h3>
-<p><a href="https://github.com/JaumeClave/tahoe_healthcare_readmittance_prediction/blob/master/tahoe_healthcare_systems.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/tahoe_healthcare_readmittance_prediction/blob/master/tahoe_healthcare_systems.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/tahoe_healthcare_readmittance_prediction/blob/master/tahoe_healthcare_systems.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/tahoe_healthcare_readmittance_prediction/blob/master/tahoe_healthcare_systems.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/roc_curve.JPG" width="350" align="right"/>  </a>
@@ -78,8 +72,7 @@
 
 
 <h3 id="geometric-brownian-motion-black-sholes-delta-hedging">Geometric Brownian Motion and Black-Scholes Delta Hedging</h3>
-<p><a href="https://github.com/JaumeClave/Geometric-Brownian-Motion-and-Black-Scholes-Delta-Hedging/blob/master/geometric_brownian_motion_and_black_scholes_delta_hedging.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/Geometric-Brownian-Motion-and-Black-Scholes-Delta-Hedging/blob/master/geometric_brownian_motion_and_black_scholes_delta_hedging.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/Geometric-Brownian-Motion-and-Black-Scholes-Delta-Hedging/blob/master/geometric_brownian_motion_and_black_scholes_delta_hedging.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/Geometric-Brownian-Motion-and-Black-Scholes-Delta-Hedging/blob/master/geometric_brownian_motion_and_black_scholes_delta_hedging.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/monte_carlos.JPG" width="350" align="right"/></a>
@@ -88,8 +81,7 @@
 
 
 <h3 id="networkx-asset-price-correlations">Applying Network Analytics to Visualize ETF Asset Price Correlations</h3>
-<p><a href="https://github.com/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/asset_price_correlation_NetworkX/blob/master/asset_price_correlation.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/clustured_heatmap.JPG" width="350" align="right"/>
@@ -99,8 +91,7 @@
 
 
 <h3 id="rfm-clv-customer-segmentation">Retail Customer Segmentation Through RFM and Custmer Lifetime Value Analysis</h3>
-<p><a href="https://github.com/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/customer_analysis_FRM_CLV/blob/master/direct_marketing_educational_foundation_customer_analysis.ipynb" target="_blank"> 
 <img src="https://jaumeclave.github.io./images/month_on_month_rev.JPG" width="350" align="right"/> </a>
@@ -109,8 +100,7 @@
 
 
 <h3 id="networkx-community-detection">Data Clustering and Community Detection in Graphs Using NetworkX</h3>
-<p><a href="https://github.com/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/community_detection_NetworkX/blob/master/community_detection-networkx.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/louvian_wttws.JPG" width="350" align="right"/></a>
@@ -119,8 +109,7 @@
 
 
 <h3 id="markov-chain-attribution">Visualizing the Customer Funnel and Using Markov Chains for Website Page Attribution</h3>
-<p><a href="https://github.com/JaumeClave/website_user_flow_with_markov_chain_attribution/blob/master/user_flow_and_markov_chain_attribution.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/website_user_flow_with_markov_chain_attribution/blob/0f914550c22dc960846b7a82bb4fda837f53614b/user_flow_and_markov_chain_attribution.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/website_user_flow_with_markov_chain_attribution/blob/0f914550c22dc960846b7a82bb4fda837f53614b/user_flow_and_markov_chain_attribution.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/website_user_flow_with_markov_chain_attribution/blob/0f914550c22dc960846b7a82bb4fda837f53614b/user_flow_and_markov_chain_attribution.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/sankey_diagrams.png" width="350" align="right"/></a>
@@ -129,8 +118,7 @@
 
 
 <h3 id="data-analysis-and-machine-learning-airbnb-new-orleans">Exploring & Machine Learning With Airbnb Listings in New Orleans</h3>
-<p><a href="https://github.com/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/inside_airbnb_new_orleans_analysis/blob/master/inside_airbnb_new_orleans_analysis.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/new_orleans_neigborhoods_sentiment.JPG" width="350" align="right"/>  </a>
@@ -148,8 +136,7 @@
 
 
 <h3 id="Marketing_Resource_Allocation_VAR_&_IRF">Marketing Resource Allocation With Vector Autoregression and Impulse Response Analysis</h3>
-<p><a href="https://github.com/JaumeClave/marketing_resource_allocation/blob/master/Marketing%20Resource%20Allocation%20(VAR%20%26%20IRF).ipynb" target="_blank">Github</a> 
-<a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/optimal_budget_allocations.JPG" width="350" align="right"/>  </a>
