@@ -5,8 +5,8 @@
 <img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
 <a href="mailto:j.clavedomenech@gmail.com" target="_blank">
 <img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a>
-<a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/curriculum_vitae/Please%20Ignore.pdf" download>
-<b>CV</b></a></p>
+<a href="/JaumeClave/JaumeClave.github.io/raw/master/curriculum_vitae/Please%20Ignore.pdf" download>
+<b>      Download CV</b></a></p>
 
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
