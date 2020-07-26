@@ -180,7 +180,7 @@
 
 ## Certifications
 <h3 id="DataCamp-Data-Scientist-Career-Track">Data Scientist with Python</h3>
-<p align="justify">This 23 course and 88 hour DataCamp career track helped me reinforce my importing, cleaning, manipulating, and visualizing data—all integral skills needed in the data science world. Through interactive exercises and 6 hands-on projects I took advantage of many Python libraries, including pandas, NumPy, Matplotlib, Seaborn, scikit-learn and Keras. I worked with real-world datasets, counting a Super Bowl ad dataset and a Nobel Laureates database to learn the statistical and machine learning techniques needed to train decision trees, support vector machines and artificial neural networks and use natural language processing (NLP) along with image categorization. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/data_scientist_career_track_certificate.pdf" target="_blank">This course</a> has helped me grow my Python skills, and has helped me become a more confident data scientist by providing me the skills to complete the [projects](#Projects) in my portfolio.</p>
+<p align="justify">This 23 course and 88 hour DataCamp career track helped me reinforce my importing, cleaning, manipulating, and visualizing data—all integral skills needed in the data science world. Through interactive exercises and 6 hands-on projects I took advantage of many Python libraries, including pandas, NumPy, Matplotlib, Seaborn, scikit-learn and Keras. I worked with real-world datasets, counting a Super Bowl ad dataset and a Nobel Laureates database to learn the statistical and machine learning techniques needed to train decision trees, support vector machines and artificial neural networks and use natural language processing (NLP) along with image categorization. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/data_scientist_career_track_certificate.pdf" target="_blank">This course</a> has helped me grow my Python skills, and has helped me become a more confident data scientist by providing me the skills to complete the <a href="https://jaumeclave.github.io./#projects">projects</a> in my portfolio.</p>
 
 
 <h3 id="DataCamp-Machine-Learning-Fundamentals">Machine Learning Fundamentals with Python</h3>
@@ -188,6 +188,8 @@
 
 
 ## Papers
+<h3 id="Economic-Analysis-Hydrualic-Fracturing">Economic Analysis on the Profitability of a Horizontal Multi-Stage Hydraulic Fracturing well in the Duvernay Formation</h3>
+<p align="justify"> Supervised by Dr. D. Stupples. Project titled: ‘Economic Analysis on the Profitability of a Horizontal Multi-Stage Hydraulic Fracturing well in the Duvernay Formation’. Examined the economic viability of a 20-year lifespan petroleum extraction site in Alberta, Canada by investigating potential production of shale oil deposits. Oil production data analysed and forecasted using MATLAB and Simulink. Collaborations with 3ESI-Enersight and Aucerna.</p>
 
 
 <details><summary></summary>
