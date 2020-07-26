@@ -1,4 +1,5 @@
 <!-- Website -->
+
 <p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
 <a href="https://github.com/JaumeClave" target="_blank">
@@ -8,16 +9,12 @@
 <p><a href="https://github.com/JaumeClave/JaumeClave.github.io/raw/master/curriculum_vitae/CV_Jaume_Clave_Domenech.pdf" download>
 <b>Curriculum (CV)</b></a></p>
 
-
-
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
 # Data Science Portfolio by Jaume Clave Domenech
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from my time completing my MSc Business Analytics at Imperial College Business School, my professional career and various projects I have completed out of interest and curiosity.</p>
 
 ## Projects
-
-
 <h3 id="whatsapp_chat_anlaysis">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
 <p><a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
@@ -169,7 +166,6 @@
 
 
 ## Hackathons
-
 <img src="https://jaumeclave.github.io./images/ai_hacks_2020.jpg" width="125" align="right"/>
 
 <h3 id="AI-Hack-2020">AI Hack 2020 (1st Prize)</h3>
@@ -180,6 +176,18 @@
 
 <h3 id="AI-Hack-2020">COVID-19 Recovery Challange</h3>
 <p align="justify">Took part in the 5-day innovation hackathon for all bright minds from LSE, Imperial College, Harvard, UCL and ITESM who wanted to help build a better future during these times. The aim of the event was to facilitate the generation of innovative solutions to the challenges engendered by the pandemic by providing 5 days of industry-leading talks, mentorship, networking, guidance all through an online community. This was not a traditional tech hackathon but one which gave the freedom to come up with new products, business models, policies or campaigns trying to help individuals and businesses recover post the crisis.</p>
+
+
+## Certifications
+<h3 id="DataCamp-Data-Scientist-Career-Track">Data Scientist with Python</h3>
+<p align="justify">This 23 course and 88 hour DataCamp career track helped me reinforce my importing, cleaning, manipulating, and visualizing data—all integral skills needed in the data science world. Through interactive exercises and 6 hands-on projects I took advantage of many Python libraries, including pandas, NumPy, Matplotlib, Seaborn, scikit-learn and Keras. I worked with real-world datasets, counting a Super Bowl ad dataset and a Nobel Laureates database to learn the statistical and machine learning techniques needed to train decision trees, support vector machines and artificial neural networks and use natural language processing (NLP) along with image categorization. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/data_scientist_career_track_certificate.pdf" target="_blank">This course</a> has helped me grow my Python skills, and has helped me become a more confident data scientist by providing me the skills to complete the [projects](#projects) in my portfolio.</p>
+
+
+<h3 id="DataCamp-Machine-Learning-Fundamentals">Machine Learning Fundamentals with Python</h3>
+<p align="justify">This 5 course and 20 hour DataCamp skill track helped me practise the fundamental concepts in Machine Learning. scikit-learn was used throughout this certification to build predictive models, tune their parameters, and determine how well they will perform with unseen data. SciPy was levereaged to cluster, transform, visualize, and extract insights from unlabeled datasets, and build a recommender system to recommend popular musical artists to users. A school budgeting case study was used to build a baseline model before preforming natural language processing to prepare the budgets for modeling. Deep learning with the Keras 2.0 library was implemented in order build deep neural networds and optimize them with backward propagation and keras fine-tunning. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/machine_learning_fundamentals_skill_track_certificate.pdf" target="_blank">This course</a> has helped me grow my Python and Machine Learning skills, and has helped me become a more confident data scientist by providing me the skills to complete the [projects](#projects) in my portfolio.</p>
+
+
+## Papers
 
 
 <details><summary></summary>
