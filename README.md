@@ -197,7 +197,7 @@
 <p align="justify"> Supervised by Dr. D. Stupples. Project titled: ‘Economic Analysis on the Profitability of a Horizontal Multi-Stage Hydraulic Fracturing well in the Duvernay Formation’. Examined the economic viability of a 20-year lifespan petroleum extraction site in Alberta, Canada by investigating potential production of shale oil deposits. Oil production data analysed and forecasted using MATLAB and Simulink. Collaborations with 3ESI-Enersight and Aucerna.</p>
 
 
-<a href="https://jaumeclave.github.io./#">Back to Top</a></p>
+<a href="https://jaumeclave.github.io./#">Back to Top</a>
 
 
 <details><summary></summary>
