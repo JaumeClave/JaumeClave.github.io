@@ -14,6 +14,11 @@
 # Data Science Portfolio by Jaume Clave Domenech
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from my time completing my MSc Business Analytics at Imperial College Business School, my professional career and various projects I have completed out of interest and curiosity.</p>
 
+<p><a href="https://jaumeclave.github.io./#projects">Projects</a>
+<a href="https://jaumeclave.github.io./#hackathons">Hackathons</a>
+<a href="https://jaumeclave.github.io./#certifications">Certifications</a>
+<a href="https://jaumeclave.github.io./#papers">Papers</a></p>
+
 ## Projects
 <h3 id="whatsapp_chat_anlaysis">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
 <p><a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
