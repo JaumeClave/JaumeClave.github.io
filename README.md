@@ -193,8 +193,11 @@
 
 
 ## Papers
+<h3 id="Client-Churn-Prediction">Assessing Customer Churn Using Machine Learning Models in the Oil & Energy SaaS Industry</h3>
+<p align="justify"> Supervised by Dr. W. Wiesemannples. Examined the client renewal process for Aucerna and provided a probabilistic classifier that output probabilities based on a client not renewing its contract for its original amount. Identified active customer churn which is detectable by analysing hidden patterns in customer account data, payment behaviour and history data, product and solution usage data and the business-to-customer communication. Enhanced the risk assesment process by introducing a data-driven churn score. Collaborations with Aucerna.</p>
+
 <h3 id="Economic-Analysis-Hydrualic-Fracturing">Economic Analysis on the Profitability of a Horizontal Multi-Stage Hydraulic Fracturing well in the Duvernay Formation</h3>
-<p align="justify"> Supervised by Dr. D. Stupples. Project titled: ‘Economic Analysis on the Profitability of a Horizontal Multi-Stage Hydraulic Fracturing well in the Duvernay Formation’. Examined the economic viability of a 20-year lifespan petroleum extraction site in Alberta, Canada by investigating potential production of shale oil deposits. Oil production data analysed and forecasted using MATLAB and Simulink. Collaborations with 3ESI-Enersight and Aucerna.</p>
+<p align="justify"> Supervised by Dr. D. Stupples. Project titled: ‘Economic Analysis on the Profitability of a Horizontal Multi-Stage Hydraulic Fracturing well in the Duvernay Formation’. Examined the economic viability of a 20-year lifespan petroleum extraction site in Alberta, Canada by investigating potential production of shale oil deposits. Oil production data analysed and forecasted using MATLAB and Simulink. Collaborations with 3ESI-Enersight.</p>
 
 
 <a href="https://jaumeclave.github.io./#">Back to Top</a>
