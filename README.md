@@ -21,7 +21,7 @@
 
 ## Projects
 
-<h3 id="whatsapp_chat_anlaysis">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
+<h3 id="yolov4-custom-object-detector">Identifying Messi with a Darknet for YOLOv4 Custom Object Detector</h3>
 <p><a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
 <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">
