@@ -20,6 +20,16 @@
 <a href="https://jaumeclave.github.io./#projects">Projects</a></p>
 
 ## Projects
+
+<h3 id="whatsapp_chat_anlaysis">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
+
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">
+<img src="https://jaumeclave.github.io./images/messi_atletic.gif" width="350" align="right"/></a>
+
+<p align="justify">Facebook's purchase of the messaging giant for $16 billion ($4 billion cash, $12 billion in Facebook shares) back in 2014, further solidified Facebooks reach into user's everyday lives. The acquisition was one of the largest Silicon Valley had ever seen, and by far Facebook's largest purchase. So why did Facebook purchase an app that had limited revenue generation...? Growth potential and data. WhatsApp was the only app with higher engagement than Facebook itself. <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank"><b>This project</b></a> uses Python to explore the dataset and compute interesting top-level metrics. The paper aims to inform the reader about exploratory data analysis (EDA) methods and what they can show in relation to this type of data. The paper contains a detailed section on forecasting models including STL decomposition and ARIMA techniques that are utilised to forecast future message counts. The project studies an introduction into machine learning through natural language processing and the use of a Naive Bayes classifier for message segmentation. The visualizations go hand in hand with the explanations so as to provide a visual medium for the information.</p>
+
+
 <h3 id="whatsapp_chat_anlaysis">WhatsApp Group Chat Analysis With Naive Bayes Message Categorization</h3>
 <p><a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank">nbviewer</a></p>
 
