@@ -22,9 +22,9 @@
 ## Projects
 
 <h3 id="yolov4-custom-object-detector">A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector</h3>
-<p><a href="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" target="_blank">Google Colab</a></p>
+<p><a href="https://colab.research.google.com/github/JaumeClave/darknet_volov4_object_detection/blob/master/Darknet_YOLOv4_Object_Detection.ipynb" target="_blank">Google Colab</a></p>
 
-<a href="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" target="_blank">
+<a href="https://colab.research.google.com/github/JaumeClave/darknet_volov4_object_detection/blob/master/Darknet_YOLOv4_Object_Detection.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/messi_atletic.gif" width="350" align="right"/></a>
 
 <p align="justify">Facebook's purchase of the messaging giant for $16 billion ($4 billion cash, $12 billion in Facebook shares) back in 2014, further solidified Facebooks reach into user's everyday lives. The acquisition was one of the largest Silicon Valley had ever seen, and by far Facebook's largest purchase. So why did Facebook purchase an app that had limited revenue generation...? Growth potential and data. WhatsApp was the only app with higher engagement than Facebook itself. <a href="https://nbviewer.jupyter.org/github/JaumeClave/whatsapp_group_chat_analysis/blob/master/whatsapp_expansion_crew_final.ipynb" target="_blank"><b>This project</b></a> uses Python to explore the dataset and compute interesting top-level metrics. The paper aims to inform the reader about exploratory data analysis (EDA) methods and what they can show in relation to this type of data. The paper contains a detailed section on forecasting models including STL decomposition and ARIMA techniques that are utilised to forecast future message counts. The project studies an introduction into machine learning through natural language processing and the use of a Naive Bayes classifier for message segmentation. The visualizations go hand in hand with the explanations so as to provide a visual medium for the information.</p>
