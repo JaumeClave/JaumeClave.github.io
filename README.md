@@ -1,5 +1,12 @@
 <!-- Website -->
 
+<video autoplay="autoplay" loop="loop" width="400" height="300">
+  <img src="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/images/github_uplaod.mp4?raw=true" type="video/mp4" />
+</video>
+
+<img src="https://jaumeclave.github.io./images/messi_2015.mp4" width="200" align="right"/>
+
+
 <p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
 <img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
 <a href="https://github.com/JaumeClave" target="_blank">
