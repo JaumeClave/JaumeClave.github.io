@@ -14,7 +14,8 @@
 # Data Science Portfolio by Jaume Clave Domenech
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from projects I have researched out of interest and curiosity, my professional career as a Data Scientist in the FinTech and SaaS industries and from my time completing my MSc Business Analytics at Imperial College Business School.</p>
 
-<p><a href="https://jaumeclave.github.io./#certifications">Certifications</a>
+<p><a href="https://jaumeclave.github.io./#about">About</a>
+<a href="https://jaumeclave.github.io./#certifications">Certifications</a>
 <a href="https://jaumeclave.github.io./#hackathons">Hackathons</a>
 <a href="https://jaumeclave.github.io./#papers">Papers</a>
 <a href="https://jaumeclave.github.io./#projects">Projects</a></p>
@@ -179,6 +180,16 @@
 <img src="https://jaumeclave.github.io./images/optimal_budget_allocations.JPG" width="350" align="right"/>  </a>
 
 <p align="justify">The 2019 global advertisement budget surpassed $560 billion USD, the US and North-American market, unsurpsignly being the largest spenders. These budgets are stretched among various channels as internet advertising now not only relates to “traditional” Google Ads spending or Facebook Ads spending but to influencer marketing on quickly growing social media apps like Tik-Tok and Snapchat. As new marketing opportunities arise decision makers not only need to figure out how much company resource to devote to their marketing campaigns, they need to decide where exactly to spend that budget. The old axiom, “marketers waste half of their money, but they just don’t know which half” still holds true. <a href="https://nbviewer.jupyter.org/github/JaumeClave/Marketing_Resource_Allocation_VAR_-_IRF/blob/master/Marketing%20Resource%20Allocation%20%28VAR%20%26%20IRF%29.ipynb" target="_blank"><b>This project</b></a> contains a detailed analytical investigation into a retailers marketing budget and it provides an improvement to it by finding its optimal channel allocation. The examination is completed to help the retailer better use their annual marketing budget in order to increase audience reach, conversions and ultimately sales that lead to bottom-line growth. The paper will take a step-by-step approach in solving the optimal resource (channel) allocation problem and will show and explain at each phase what needs to be done to find optimality so that other retailers and companies may adopt the same approach to better allocate their budget.</p>
+
+
+## About
+<p align="justify">My understanding of the importance of data evolved during my time in the digital marketing industry where my responsibility was to measure and track the customer journey touchpoints involved in an online event. My MSc in Business Analytics at Imperial College Business School developed my statistical, operations research and machine learning techniques aimed at solving business problems and obtaining actionable business insight from data. My current work as a Data Scientist in the FinTech and Oil & Energy SaaS industries has allowed me to explore how DS and ML methodologies can be leveraged to add significant business value by analyzing, mining and exploiting available information.
+
+I enjoy working directly with clients and establishing meaningful and transparent relationships in order to foster mutual growth. I love learning about what makes an individual business succeed and its business model in order to see where I can help. I look forward to connecting with you on <a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">LinkedIn</a>, you can email me at j.clavedomenech@gmail.com and you can explore my projects here on my <a href="https://www.jaumeclave.github.io." target="_blank"> website</a>.
+
+TL;DR: I'm extremely interested in implementing AI, Data Science and Machine Learning to approach difficult problems and uncover patterns in data. Helping leaders understand what questions they are not asking, but should be asking!
+
+🔎 📈  </p>
 
 
 ## Hackathons
