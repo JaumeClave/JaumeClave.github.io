@@ -14,11 +14,11 @@
 # Data Science Portfolio by Jaume Clave Domenech
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from projects I have researched out of interest and curiosity, my professional career as a Data Scientist in the FinTech and SaaS industries and from my time completing my MSc Business Analytics at Imperial College Business School.</p>
 
-<p><a href="https://jaumeclave.github.io./#about">About</a>
-<a href="https://jaumeclave.github.io./#certifications">Certifications</a>
-<a href="https://jaumeclave.github.io./#hackathons">Hackathons</a>
-<a href="https://jaumeclave.github.io./#papers">Papers</a>
-<a href="https://jaumeclave.github.io./#projects">Projects</a></p>
+<p><a href="https://jaumeclave.github.io./#about">About </a>
+<a href="https://jaumeclave.github.io./#certifications">Certifications </a>
+<a href="https://jaumeclave.github.io./#hackathons">Hackathons </a>
+<a href="https://jaumeclave.github.io./#papers">Papers </a>
+<a href="https://jaumeclave.github.io./#projects">Projects </a></p>
 
 ## Projects
 <h3 id="yolov4-custom-object-detector">A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector</h3>
@@ -184,11 +184,11 @@
 ## About
 <p align="justify">I am a self-motivated, enthusiastic team worker with a keen interest in Machine Learning and Data Science. I am passionate about solving business problems through data storytelling and helping make jobs better and more efficient by understanding and supporting the organizational direction. I enjoy being strategic with data and realizing what needs to be acquired to increase the value of the existing data.</p>
  
-<p>My understanding of the importance of data evolved during my time in the digital marketing industry where my responsibility was to measure and track the customer journey touchpoints involved in an online event. My MSc in Business Analytics at Imperial College Business School developed my statistical, operations research and machine learning techniques aimed at solving business problems and obtaining actionable business insight from data. My current work as a Data Scientist in the FinTech and Oil & Energy SaaS industries has allowed me to explore how DS and ML methodologies can be leveraged to add significant business value by analyzing, mining and exploiting available information.</p>
+<p align="justify">My understanding of the importance of data evolved during my time in the digital marketing industry where my responsibility was to measure and track the customer journey touchpoints involved in an online event. My MSc in Business Analytics at Imperial College Business School developed my statistical, operations research and machine learning techniques aimed at solving business problems and obtaining actionable business insight from data. My current work as a Data Scientist in the FinTech and Oil & Energy SaaS industries has allowed me to explore how DS and ML methodologies can be leveraged to add significant business value by analyzing, mining and exploiting available information.</p>
 
-<p>I enjoy working directly with clients and establishing meaningful and transparent relationships in order to foster mutual growth. I love learning about what makes an individual business succeed and its business model in order to see where I can help. I look forward to connecting with you on <a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">LinkedIn</a>, you can email me at j.clavedomenech@gmail.com and you can explore my projects here on my <a href="https://jaumeclave.github.io./" target="_blank"> website</a>.</p>
+<p align="justify">I enjoy working directly with clients and establishing meaningful and transparent relationships in order to foster mutual growth. I love learning about what makes an individual business succeed and its business model in order to see where I can help. I look forward to connecting with you on <a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">LinkedIn</a>, you can email me at j.clavedomenech@gmail.com and you can explore my projects here on my <a href="https://jaumeclave.github.io./" target="_blank"> website</a>.</p>
 
-<p>TL;DR: I'm extremely interested in implementing AI, Data Science and Machine Learning to approach difficult problems and uncover patterns in data. Helping leaders understand what questions they are not asking, but should be asking! 🔎 📈  </p>
+<p align="justify">TL;DR: I'm extremely interested in implementing AI, Data Science and Machine Learning to approach difficult problems and uncover patterns in data. Helping leaders understand what questions they are not asking, but should be asking! 🔎 📈  </p>
 
 
 ## Hackathons
