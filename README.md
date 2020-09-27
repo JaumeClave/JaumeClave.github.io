@@ -31,7 +31,7 @@
 </p>
 
 
-<h3 id="deepfakes-first-order-model">Computer Vision Deepfakes the Using First Order Model Method: Face Synthesis With GAN and Autoencoders</h3>
+<h3 id="deepfakes-first-order-model">Computer Vision Deepfakes (First Order Model Method): Face Synthesis With GANs and Autoencoders</h3>
 <p><a href="https://colab.research.google.com/github/JaumeClave/deepfakes_first_order_model/blob/master/first_order_model_deepfakes.ipynb" target="_blank">Google Colab</a></p>
 
 <a href="https://colab.research.google.com/github/JaumeClave/deepfakes_first_order_model/blob/master/first_order_model_deepfakes.ipynb" target="_blank">
