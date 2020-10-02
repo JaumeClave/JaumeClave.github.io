@@ -120,9 +120,9 @@
 
 
 <h3 id="whatsapp_chatbot_python">	Django, Webhooks and Natural Language Processing for Making a Responsive WhatsApp Chatbot</h3>
-<p><a href="https://github.com/JaumeClave/python_chatbots/blob/main/python_chatbots.ipynb" target="_blank">nbviewer</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/JaumeClave/python_chatbots/blob/main/python_chatbots.ipynb" target="_blank">nbviewer</a></p>
 
-<a href="https://github.com/JaumeClave/python_chatbots/blob/main/python_chatbots.ipynb" target="_blank">
+<a href="https://nbviewer.jupyter.org/github/JaumeClave/python_chatbots/blob/main/python_chatbots.ipynb" target="_blank">
 <img src="https://jaumeclave.github.io./images/whatsapp_chatbot_gif.gif" width="350" align="right"/>
 </a>
 
