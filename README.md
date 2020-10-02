@@ -222,28 +222,29 @@
 
 
 ## Hackathons
-<img src="https://jaumeclave.github.io./images/ai_hacks_2020.jpg" width="125" align="right"/>
-
 <h3 id="AI-Hack-2020">AI Hack 2020 (1st Prize)</h3>
+<img src="https://jaumeclave.github.io./images/ai_hacks_2020.jpg" width="125" align="right"/>
 <p align="justify">During the last weekend on February I took part in the largest student-led AI Hackathon in the UK. This third ever AI Hack aimed to bring the most forward-thinking and creative student data scientists to solve some of the world's most pressing challenges. I tackled the 24-hour hackathon at Imperial College London and was awarded first prize for the discoveries in the Airbnb Correlation One Challenge! Analysed over 40,000 Airbnb listings in New York City to understand how a listings features affected its nightly price. Explored patterns in the rentals industry and how the they relate to economic, demographic, and geographic trends at large. Created machine learning models that were able to predict a monthly revenue investors could expect from their Airbnb property. This was then used to compare yields from other property rental types so that a potential investor could make a data-driven decision on what to invest in. </p>
 
 
-<img src="https://jaumeclave.github.io./images/covid_19_recovery.jpg" width="125" align="right"/>
-
 <h3 id="AI-Hack-2020">COVID-19 Recovery Challange</h3>
+<img src="https://jaumeclave.github.io./images/covid_19_recovery.jpg" width="125" align="right"/>
 <p align="justify">Took part in the 5-day innovation hackathon for all bright minds from LSE, Imperial College, Harvard, UCL and ITESM who wanted to help build a better future during these times. The aim of the event was to facilitate the generation of innovative solutions to the challenges engendered by the pandemic by providing 5 days of industry-leading talks, mentorship, networking, guidance all through an online community. This was not a traditional tech hackathon but one which gave the freedom to come up with new products, business models, policies or campaigns trying to help individuals and businesses recover post the crisis.</p>
 
 
 ## Certifications
 <h3 id="DataCamp-Data-Scientist-Career-Track">Data Scientist with Python</h3>
+<img src="https://jaumeclave.github.io./images/Data_Scientist.png" width="125" align="right"/>
 <p align="justify">This 23 course and 88 hour DataCamp career track helped me reinforce my importing, cleaning, manipulating, and visualizing data—all integral skills needed in the data science world. Through interactive exercises and 6 hands-on projects I took advantage of many Python libraries, including pandas, NumPy, Matplotlib, Seaborn, scikit-learn and Keras. I worked with real-world datasets, counting a Super Bowl ad dataset and a Nobel Laureates database to learn the statistical and machine learning techniques needed to train decision trees, support vector machines and artificial neural networks and use natural language processing (NLP) along with image categorization. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/data_scientist_career_track_certificate.pdf" target="_blank">This course</a> has helped me grow my Python skills, and has helped me become a more confident data scientist by providing me the skills to complete the <a href="https://jaumeclave.github.io./#projects">projects</a> in my portfolio.</p>
 
 
 <h3 id="DataCamp-Machine-Learning-Career-Track">Machine Learning Scientist with Python</h3>
+<img src="https://jaumeclave.github.io./images/Machine_Learning_Scientist.png" width="125" align="right"/>
 <p align="justify">This 23 course and 93 hour DataCamp career track helped me augment my Python programming skill set with the toolbox to perform supervised, unsupervised, and deep learning as a machine learning scientist. I mastered how to process data for features, train models, assess performance, and tune parameters for better performance. The course contained various natural language processing, image processing projects, completed with popular libraries such as TensorFlow, Spark and Keras. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/machine_learning_scientist_career_track_certificate.pdf" target="_blank">This course</a> has helped me improve my machine learning skills, and has helped me become a more confident programmer by providing me the tools needed to complete the <a href="https://jaumeclave.github.io./#projects">projects</a> in my portfolio.</p>
 
 
 <h3 id="DataCamp-Machine-Learning-Fundamentals">Machine Learning Fundamentals with Python</h3>
+<img src="https://jaumeclave.github.io./images/Machine_Learning_Fundamentals.png" width="125" align="right"/>
 <p align="justify">This 5 course and 20 hour DataCamp skill track helped me practise the fundamental concepts in Machine Learning. scikit-learn was used throughout this certification to build predictive models, tune their parameters, and determine how well they will perform with unseen data. SciPy was levereaged to cluster, transform, visualize, and extract insights from unlabeled datasets, and build a recommender system to recommend popular musical artists to users. A school budgeting case study was used to build a baseline model before preforming natural language processing to prepare the budgets for modeling. Deep learning with the Keras 2.0 library was implemented in order build deep neural networds and optimize them with backward propagation and keras fine-tunning. <a href="https://github.com/JaumeClave/JaumeClave.github.io/blob/master/certifications/machine_learning_fundamentals_skill_track_certificate.pdf" target="_blank">This course</a> has helped me grow my Python and Machine Learning skills, and has helped me become a more confident data scientist by providing me the skills to complete the <a href="https://jaumeclave.github.io./#projects">projects</a> in my portfolio.</p>
 
 
