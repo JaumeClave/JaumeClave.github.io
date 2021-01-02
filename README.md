@@ -1,11 +1,6 @@
 <!-- Website -->
 
-<p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
-<img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
-<a href="https://github.com/JaumeClave" target="_blank">
-<img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
-<a href="mailto:j.clavedomenech@gmail.com" target="_blank">
-<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a></p>
+<h1><a href="https://jaumeclave.github.io./" target="_blank">JaumeClave.github.io</a></h1>
 
 <img src="https://jaumeclave.github.io./images/jaume_clave.jpg" width="200" align="right"/>
 
@@ -13,6 +8,13 @@
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from projects I have researched out of interest and curiosity, my professional career as a Data Scientist in the FinTech and SaaS industries and from my time completing my MSc Business Analytics at Imperial College Business School.</p>
 
 <p><b>Check out my website at <a href="https://jaumeclave.github.io./" target="_blank">JaumeClave.github.io</a></b></p>
+
+<p><a href="https://www.linkedin.com/in/jaume-clave-domenech/" target="_blank">
+<img alt="GitHub" src="https://jaumeclave.github.io./images/linkedin_logo.png" height="17"></a>
+<a href="https://github.com/JaumeClave" target="_blank">
+<img alt="GitHub" src="https://jaumeclave.github.io./images/github_logo.png" height="18" hspace="20"></a>
+<a href="mailto:j.clavedomenech@gmail.com" target="_blank">
+<img alt="Gmail" src="https://jaumeclave.github.io./images/gmail_logo.png" height="18"></a></p>
 
 ## Projects
 <h3 id="yolov4-custom-object-detector">A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector</h3>
