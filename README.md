@@ -14,6 +14,8 @@
 # Data Science Portfolio by Jaume Clave Domenech
 <p align="justify">This portfolio is a compilation of notebooks which I created for data analysis and for exploration of machine learning algorithms. It contains work from projects I have researched out of interest and curiosity, my professional career as a Data Scientist in the FinTech and SaaS industries and from my time completing my MSc Business Analytics at Imperial College Business School.</p>
 
+<p><b>Check out my website at <a href="https://jaumeclave.github.io./">JaumeClave.github.io</a></b></p>
+
 ## Projects
 <h3 id="yolov4-custom-object-detector">A Deep Learning Approach to Identifying Messi: Darknet YOLOv4 Custom Object Detector</h3>
 <p><a href="https://colab.research.google.com/github/JaumeClave/darknet_volov4_object_detection/blob/master/Darknet_YOLOv4_Object_Detection.ipynb" target="_blank">Google Colab</a></p>
