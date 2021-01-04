@@ -550,3 +550,11 @@ h6 {
   height: 281px;
   float: right;
 }
+
+.jaume {
+  padding: 0;
+  display: block;
+  margin: 25px;
+  max-height: 550px;
+  max-width: 550px;
+}
