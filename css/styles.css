@@ -521,10 +521,10 @@ h6 {
     text-align: center;
 }
 
-.fake_img{
+.social_img{
     display: inline-block;
-    margin: 20px 5px;
-    width: 40px;
+    margin: 10px 5px;
+    width: 30px;
     padding: 5px;
 }
 
